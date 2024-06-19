@@ -39,5 +39,5 @@ const Levrii = {
 </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Faradaii/Faradaii/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Maung90/Maung90/output/github-contribution-grid-snake-dark.svg)
 
