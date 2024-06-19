@@ -38,6 +38,3 @@ const Levrii = {
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maung90&layout=compact&theme=highcontrast"/>
 </a>
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/Maung90/Maung90/output/github-contribution-grid-snake-dark.svg)
-
