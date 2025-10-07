@@ -10,12 +10,12 @@ Halo! Saya Levri. Saat ini, saya sedang mendalami dunia pemrograman yang menakju
 const Levrii = {
   pronouns: "bro",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [Codeigniter, MySql, CSS, Bootstrap, Github]
+  tools: [Codeigniter, MySql, CSS, Bootstrap, Github, Laravel]
 }
 ```
 **Hubungi Saya di**
 
-<a href="https://instagram.com/username" target="_blank"><img align="left" alt="Instagram" width="90px" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram" /></a>
+<a href="https://instagram.com/levrii" target="_blank"><img align="left" alt="Instagram" width="90px" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram" /></a>
 <br />
 <br />
 
